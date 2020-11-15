@@ -1,5 +1,5 @@
 {
-    "name": "figletify",
+    "name": "@jedithepro/figletify",
     "version": "1.0.0",
     "description": "Creates ASCII Art from text. A full implementation of the FIGfont spec.",
     "keywords": [
