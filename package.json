@@ -1,6 +1,6 @@
 {
-    "name": "figlet",
-    "version": "1.5.1",
+    "name": "figletify",
+    "version": "1.0.0",
     "description": "Creates ASCII Art from text. A full implementation of the FIGfont spec.",
     "keywords": [
         "figlet",
@@ -11,15 +11,11 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/patorjk/figlet.js.git"
-    },
-    "bugs": {
-        "url": "https://github.com/patorjk/figlet.js/issues"
+        "url": "https://github.com/JediThePro/figletify.git"
     },
     "author": {
-        "name": "Patrick Gillespie",
-        "email": "patorjk@gmail.com",
-        "url": "http://patorjk.com/"
+        "name": "JediThePro",
+        "email": "pasit.sakorn@gmail.com",
     },
     "license": "MIT",
     "main": "./lib/node-figlet.js",
@@ -37,6 +33,6 @@
         "test": "grunt test"
     },
     "engines": {
-        "node": ">= 0.4.0"
+        "node": ">=10.0.0"
     }
 }
